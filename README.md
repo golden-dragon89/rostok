@@ -1,6 +1,4 @@
 # rostok
-Файлы к проектному заданию №4
-
 programma_dlya_testa_datchikov - папка с программой для проверки работоспособности датчиков
 
 programma_dlya_proekta - папка с программой проекта
